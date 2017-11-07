@@ -9,6 +9,8 @@
 }
 ._图片 {
 }
+.placeholder {
+}
 .button {
 }
 ._一级标题 {
@@ -67,6 +69,8 @@
 }
 .box_2 {
 }
+.box_3 {
+}
 .flow_shape {
 }
 ._连接线 {
@@ -80,6 +84,14 @@
 }
 .arrow {
 }
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
 .droplist {
   color:#000000;
   text-align:left;
@@ -87,5 +99,13 @@
 .checkbox {
   text-align:left;
 }
+.radio_button {
+  text-align:left;
+}
 .table_cell {
+}
+.sticky_1 {
+  text-align:left;
+}
+.icon {
 }

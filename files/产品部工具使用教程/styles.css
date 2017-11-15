@@ -13,6 +13,7 @@
   z-index:0;
 }
 #u0_div {
+  border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
@@ -27,13 +28,15 @@
   box-shadow:none;
 }
 #u0 {
+  border-width:0px;
   position:absolute;
   left:47px;
   top:33px;
   width:806px;
   height:216px;
 }
-#u1 {
+#u0_text {
+  border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
